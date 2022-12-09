@@ -1,0 +1,27 @@
+button {
+  
+    padding: 10px;
+    border-radius: 20px;
+    margin: 0 5px;
+    border: none;
+  }
+
+.alltodoelements {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .singleelementrow {
+    border-radius: 50px;
+    margin: 10px 0;
+    background-color: aqua;
+    padding: 10px 20px;
+    display: flex;
+    width: 450px;
+    align-items: center;
+  }
+  
+  .todotext {
+    flex: 1;
+  }
